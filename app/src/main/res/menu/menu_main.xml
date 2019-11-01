@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ocr.tesseract4.MainActivity">
+    <item
+        android:id="@+id/characters"
+        android:title="@string/characters"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/words"
+        android:title="@string/words"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/text_lines"
+        android:title="@string/text_lines"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/regions"
+        android:title="@string/regions"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/utf8"
+        android:title="@string/text_recognition"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/hocr"
+        android:title="@string/hocr_info"
+        app:showAsAction="never" />
+</menu>

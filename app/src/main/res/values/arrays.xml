@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries">
+        <item>Przykład 1</item>
+        <item>Przykład 2</item>
+        <item>Przykład 3</item>
+        <item>Przykład 4</item>
+        <item>Przykład 5</item>
+        <item>Przykład 6</item>
+        <item>Przykład 7</item>
+        <item>Przykład 8</item>
+    </string-array>
+</resources>
